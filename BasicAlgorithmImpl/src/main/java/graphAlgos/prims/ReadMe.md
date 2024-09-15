@@ -1,1 +1,0 @@
-All nodes must be connected and there should not be a cycle
